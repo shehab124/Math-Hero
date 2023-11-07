@@ -6,8 +6,6 @@ as seen in the figure below.
 
 ![image](https://github.com/shehab124/Math-Hero/assets/79970898/ca9ea3c4-4aa9-4d1a-a181-e3f843efcaa9)
 
-![image](https://github.com/shehab124/Math-Hero/assets/79970898/97052788-8f0a-4404-8c7e-6ea4902f685e)
-
 2. The user selects the wanted button by pressing on it using the left button of the
 mouse.
 3. If the PLAY button is selected from the menu the Math Hero game starts;
